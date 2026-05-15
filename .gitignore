@@ -1,0 +1,9 @@
+aria_env/
+aea_data/
+projectaria_tools/
+__pycache__/
+*.pyc
+*.pyo
+*.pt
+.ipynb_checkpoints/
+.env

@@ -1,0 +1,15 @@
+projectaria-tools==2.1.2
+ultralytics==8.4.38
+opencv-python==4.13.0.92
+numpy==2.4.4
+matplotlib==3.10.8
+scipy==1.17.1
+pyroomacoustics==0.10.0
+pandas==3.0.2
+torch==2.11.0
+torchvision==0.26.0
+pillow==11.3.0
+rerun-sdk==0.26.2
+moviepy==2.2.1
+plotly==6.7.0
+google-genai==2.0.0

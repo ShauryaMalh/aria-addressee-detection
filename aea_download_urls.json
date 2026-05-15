@@ -1,0 +1,74 @@
+{
+    "sequences": {
+        "loc4_script2_seq4_rec1": {
+            "video_main_rgb": {
+                "filename": "AriaEverydayActivities_1.0.0_loc4_script2_seq4_rec1_preview_rgb.mp4",
+                "sha1sum": "0ce5aa492575c7e3e9d4b8e1efa0dcb39b96a60d",
+                "file_size_bytes": 74977528,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_YJet9qK8tnt0TZYsuvtQN3XbpRQpSzZpf090320lmhXIkvSFDtWgjwJq5Ub9X8Bg_JWKK5zZIodhY9h8jT35xMXwHox6ruyKz8-bPUvL8Q4iorrZxKkexpZXcPrEWxVWp8PDj31eRYiSdTvMZnA05kK7EjwL0kcB0dBrmbxsQpQ.mp4/AriaEverydayActivities_1.0.0_loc4_script2_seq4_rec1_preview_rgb.mp4?_nc_gid&ccb=10-5&oh=00_Af6-lMfoKRRg8y7kuz31fz8fRfl7is6wuRbHq6L8vUf2uw&oe=6A2A2A38&_nc_sid=792287"
+            },
+            "mps_slam_trajectories": {
+                "filename": "AriaEverydayActivities_1.0.0_loc4_script2_seq4_rec1_mps_slam_trajectories.zip",
+                "sha1sum": "c0167ee5cde447254f13424d0c7a6bd689a4c0c6",
+                "file_size_bytes": 13655325,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-8ilw_b5UFLUzFZZD-tk8AGmeIDmBuX8bDY3mcRw0KpE5iyVfPqlQrowzupUdYKQJ96WoiR3ABqz6aJOaU98LaT6vlbyKzVrZ-ByvEnFBm56rVrDPK-MCZRPusogbeNA9i715DrhQwxnQadV3PGoZr1MBcveMOyU0PZ6CYuv4yJkv4AkfL0Q.zip/AriaEverydayActivities_1.0.0_loc4_script2_seq4_rec1_mps_slam_trajectories.zip?_nc_gid&ccb=10-5&oh=00_Af5lJ8mjE1wIVbr967V_Yf8zH3bks4lA1aZe0-IPsZxA5Q&oe=6A2A478C&_nc_sid=792287"
+            },
+            "mps_slam_calibration": {
+                "filename": "AriaEverydayActivities_1.0.0_loc4_script2_seq4_rec1_mps_slam_calibration.zip",
+                "sha1sum": "814d8fe023a6d59533826ea6f353bcdd244320f8",
+                "file_size_bytes": 830522,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-tRALiu38GC-URp6ZuIzjCMG70FzVfhxU1bj2Yw7okfxmRil3TIbgztqh2NlPZlb3gOOUS23ILw-1FfsvQC1oWcJTU3U6w7UopoD364pYclo_eIj92htW86glMraqEGzCauEXJh9V4dKB3FAYdnQ2x6ZnnQcWcrtHm4PqP7NqSLYcj3g.zip/AriaEverydayActivities_1.0.0_loc4_script2_seq4_rec1_mps_slam_calibration.zip?_nc_gid&ccb=10-5&oh=00_Af7F81KSkM2lNZwNcM3AvJdGIoVKPy02vaMTz0i41Lz1xA&oe=6A2A2CCF&_nc_sid=792287"
+            },
+            "mps_slam_points": {
+                "filename": "AriaEverydayActivities_1.0.0_loc4_script2_seq4_rec1_mps_slam_points.zip",
+                "sha1sum": "bee3ca770484c46465236c222064ab140628b9df",
+                "file_size_bytes": 133630963,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_qP5yp__Eoor1LDWdA3XTJPY9cirhhMgi_CAq8N2L8R3-yee7mWzemvDpODmOiZBkjBsYJ1rmxHzEvAtWtBsAlGvDaP0fZinOrA0pXZE9Ywt7RRnUWxmlyuT28mOYMcQMV2GLLERxL_8DvimKVbXTrfi0t4G4N2ksK6xq8Ob5ehpVl.zip/AriaEverydayActivities_1.0.0_loc4_script2_seq4_rec1_mps_slam_points.zip?_nc_gid&ccb=10-5&oh=00_Af6aDIb9aKYOyAI_dsWwUaO_ZVC10fjhhjQO7_p27wLDhg&oe=6A2A328E&_nc_sid=792287"
+            },
+            "mps_slam_summary": {
+                "filename": "AriaEverydayActivities_1.0.0_loc4_script2_seq4_rec1_mps_slam_summary.zip",
+                "sha1sum": "3ccb67ff54384224b315a91fc653c760022db741",
+                "file_size_bytes": 749,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_GpgRlvpFpVeZFgHGbo41c88fyCD0rwsNlQY4g_3wTK-hsF6hmkErbHFkTMwBQQVHMMj7QegQvx_LJDIq2Yy69i57GBuC-gAx-9oHQ8mR_dICA1B30sfkKKmDbfzE-W7FNAsrsVCcgwLGLFE-_T7JoDB2NBpT2hi9LikN7T5RfCp8x.zip/AriaEverydayActivities_1.0.0_loc4_script2_seq4_rec1_mps_slam_summary.zip?_nc_gid&ccb=10-5&oh=00_Af4i2VHz7oT_TXZPMJiGlNNmBxYba54zTfy4dGpmJ_UbKw&oe=6A2A4998&_nc_sid=792287"
+            },
+            "mps_eye_gaze": {
+                "filename": "AriaEverydayActivities_1.0.0_loc4_script2_seq4_rec1_mps_eye_gaze.zip",
+                "sha1sum": "ff5a93b049e366248a824cdd1991014ce2ed2f08",
+                "file_size_bytes": 35971,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An_DeoO4cDaou_k7iUbBr3TDBOnUi5gNOQ2GKgT8kNFbgN8YkR2K4MQbt8Kow3TJS9bY0C1xTznDc5jp8P9BV0FrOOes2aceCShqyb6GYgVfOuGDsZl0AkKHUhudTTLEXGBbpeKd8BQl_WvmLaRGj3sVYCVarJU_YB2SPH1aD3Iilvw.zip/AriaEverydayActivities_1.0.0_loc4_script2_seq4_rec1_mps_eye_gaze.zip?_nc_gid&ccb=10-5&oh=00_Af4XPiI6Q7yaeHtK1hyYYvYBYuq7jdDMCElw3m_SsIAfgA&oe=6A2A38A9&_nc_sid=792287"
+            },
+            "mps_artifacts": {
+                "filename": "AriaEverydayActivities_1.0.0_loc4_script2_seq4_rec1_mps_artifacts.zip",
+                "sha1sum": "0d49a189e05e05d0391b4d2699d6940b1ac19896",
+                "file_size_bytes": 148153822,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-yl__R95PYuCxZ4Art1vDFsESUud50QY7R6bb0SPbhsVj22z5tSa5eTvMc2ky_MCVlnPLmJep854ZdplJYuJMyVNHJqZnZNGCyU648g8IlYW3MFOOx_8j9_pwCkXBj_1zRlzLX9Waf77TsWPSYJLWu6GixE1980Nt85t5sFRQ5qw.zip/AriaEverydayActivities_1.0.0_loc4_script2_seq4_rec1_mps_artifacts.zip?_nc_gid&ccb=10-5&oh=00_Af7JK9bQfChfBrM3tPef5iXknvKjUB2FMfgHxm6GYCOPkg&oe=6A2A5D89&_nc_sid=792287"
+            },
+            "main_vrs": {
+                "filename": "AriaEverydayActivities_1.0.0_loc4_script2_seq4_rec1_main_recording.vrs",
+                "sha1sum": "6fd6440282b14b260fbd715093b17401e7768231",
+                "file_size_bytes": 1332071878,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An8PrTxB_2iL52jvmEjbYWCdzDiLE2Jz157tRtHAi8J3RS1LkKsoU9mixaVnYl5UmCV9SLyutEcSh2TU0Te--wZLaK-BM8tuqNgFqA6NtadwQZRB-DXNWlDbs-BKHBWtaQ-oJ63gJcNVf00G1nmjlPYT-GH8eFcXDcq8AnDRDAqI.vrs/AriaEverydayActivities_1.0.0_loc4_script2_seq4_rec1_main_recording.vrs?_nc_gid&ccb=10-5&oh=00_Af4OfKIhAnvdS8UnpzeFN6gwn9jCq6w1LL2Q7DMR8b0zXA&oe=6A2A4AFC&_nc_sid=792287"
+            },
+            "annotations": {
+                "filename": "AriaEverydayActivities_1.0.0_loc4_script2_seq4_rec1_annotations.zip",
+                "sha1sum": "8dfcf6a021aa7de3f2aff3ba859a3d421c286acb",
+                "file_size_bytes": 5721,
+                "download_url": "https://scontent.xx.fbcdn.net/m1/v/t6/An-lm6OC8m7_R1Tv56MlS6Z1BE0Ea4u9F5NxFoyzuu9nsE4vEtGTI8A3aFLieOHdEvR3of_hW4W2V_JyajSEsPAnMilz-x6T_qbvledDEuPhAdzO2LYpVArRbEV336mdMEeNhSpnKpyjLecave6aDD0wlrHGnQYkbBvSqDr_.zip/AriaEverydayActivities_1.0.0_loc4_script2_seq4_rec1_annotations.zip?_nc_gid&ccb=10-5&oh=00_Af5qSXx3mPpdPrfFWzrzkosdPPoKRSe05yQVXJypUmTt_w&oe=6A2A3953&_nc_sid=792287"
+            }
+        }
+    },
+    "sequence_config": {
+        "dataset_name": "AriaEverydayActivities",
+        "main": {
+            "recording": "recording.vrs",
+            "mps": "mps"
+        },
+        "data_groups": {
+            "annotations": [
+                "speech.csv",
+                "metadata.json"
+            ]
+        },
+        "release": "1.0.0"
+    }
+}
