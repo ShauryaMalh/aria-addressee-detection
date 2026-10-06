@@ -12,7 +12,7 @@ A multimodal AI system that fuses **7-channel spatial audio**, **egocentric RGB 
 Built on the [Aria Everyday Activities (AEA) Dataset](https://www.projectaria.com/datasets/aea/), this project compares three approaches to the addressee detection and spatial grounding problem.
 
 <p align="center">
-  <img src="project/results/case1_utt0.png" width="800" alt="Case 1: task-directed speech result">
+  <img src="project/results/case1_utt3.png" width="800" alt="Case 1: task-directed speech result">
 </p>
 <p align="center"><em>Case 1: the wearer asks for an object, and the system detects the addressee, grounds the object in 3D, and plans a route to it.</em></p>
 ---
