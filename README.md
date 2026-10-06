@@ -10,7 +10,11 @@
 A multimodal AI system that fuses **7-channel spatial audio**, **egocentric RGB vision**, **eye gaze**, and **6DoF head pose** from Meta's Project Aria glasses to detect who a wearer is speaking to and ground verbal object references to precise 3D locations in household scenes.
  
 Built on the [Aria Everyday Activities (AEA) Dataset](https://www.projectaria.com/datasets/aea/), this project compares three approaches to the addressee detection and spatial grounding problem.
- 
+
+<p align="center">
+  <img src="project/results/case1_utt0.png" width="800" alt="Case 1: task-directed speech result">
+</p>
+<p align="center"><em>Case 1: the wearer asks for an object, and the system detects the addressee, grounds the object in 3D, and plans a route to it.</em></p>
 ---
  
 ## 📌 Overview
@@ -197,6 +201,6 @@ MIT License — free to use, modify, and distribute.
 ## 👨‍💻 Author
  
 Developed by **Shaurya Malhotra**  
-University of Washington — ECE/CSE  
+University of Washington — CSE  
 Project built on [Meta's ProjectAria Tools](https://github.com/facebookresearch/projectaria_tools) and the [Aria Everyday Activities Dataset](https://www.projectaria.com/datasets/aea/).
  
